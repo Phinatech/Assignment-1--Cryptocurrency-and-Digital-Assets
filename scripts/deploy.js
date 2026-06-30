@@ -38,7 +38,7 @@ const { ethers, network } = require("hardhat");
 //  ALU logo file before submitting.
 // ──────────────────────────────────────────────────────────────
 const ALU_LOGO_SHA256 =
-  "ad06d77ae6cdbb7d2c62513bec3df065696aa545d811f4f7fd9821e1a19f154c";
+  "0xad06d77ae6cdbb7d2c62513bec3df065696aa545d811f4f7fd9821e1a19f154c";
 
 // Etherscan base URLs by network
 const ETHERSCAN = {
