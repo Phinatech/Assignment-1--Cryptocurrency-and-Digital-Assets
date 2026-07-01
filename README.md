@@ -39,8 +39,8 @@ To independently verify: `sha256sum alu-logo.png`
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Phinatech/alu-blockchain-logo-protection.git
-cd alu-blockchain-logo-protection
+git clone https://github.com/Phinatech/Assignment-1--Cryptocurrency-and-Digital-Assets
+cd alu-submission
 
 # 2. Install all dependencies
 npm install
