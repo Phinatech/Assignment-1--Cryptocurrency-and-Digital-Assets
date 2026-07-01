@@ -124,7 +124,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 ## Project Structure
 
 ```
-alu-blockchain-logo-protection/
+alu-submission/
 ├── contracts/
 │   ├── ALUAssetRegistry.sol    # ERC-721 logo registration contract
 │   └── ALULogoToken.sol        # ERC-20 ownership tokenisation contract
